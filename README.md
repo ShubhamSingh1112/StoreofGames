@@ -6,3 +6,5 @@ Then put the extracted folder in "htdocs" or "www" folder.
 start your localhost and go to phpmyadmin and make a database with the database name given in files.
 Import the tables from the database.
 Refresh your localhost.
+
+This app will be remade in HTML, CSS, JSON and Vanilla Javascript.
