@@ -11,7 +11,6 @@
         <p align="center" class="card-title"><a href="">Mario Kart 8 Deluxe</a></p>
     <h6 align="center" class="card-text">₹3,999</h6>
     <button class="btn btn-info">Details</button>
-      <p></p>
       </div>
     </div>
   </div>
@@ -22,7 +21,6 @@
         <p align="center" class="card-title"><a href="3.php">Kirby Star Allies</a></p>
         <h6 align="center" class="card-text">₹3,999</h6>
         <button class="btn btn-info">Details</button>
-        <p></p>
       </div>
     </div>
   </div>
@@ -33,7 +31,6 @@
         <p align="center" class="card-title"><a href="3.php">Super Mario Odyssey</a></p>
         <h6 align="center" class="card-text">₹3,999</h6>
         <button class="btn btn-info">Details</button>
-        <p></p>
       </div>
     </div>
   </div>
