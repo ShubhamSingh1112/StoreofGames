@@ -163,6 +163,6 @@ echo $_SESSION['t1'];
     <a href="http://twitter.com/"><img src="sogimg\twitter.png" style="height: 30px"></a>&nbsp;
     <a href="http://www.youtube.com/"><img src="sogimg\youtube.png" style="height: 30px"></a></p>
       </div>
-      <p><i>&copy;Shubham Singh 2018</i></p>
+      <p><i>&copy;Shubham Singh 2022</i></p>
 </footer>
 </body>
